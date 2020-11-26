@@ -11,7 +11,7 @@ I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking.  I am interested i
 
 I obtained my Phd  degree from mathematics department at The Ohio State University in 2020.  My advisor is [Nimish Shah](https://people.math.osu.edu/shah.595/).
 
-Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014
+Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014.
 
 ### Preprints and Publications
 
