@@ -1,12 +1,12 @@
 ## Runlin Zhang 张润林
 
-### Contact:
+### Contact
 
 zhangrunlinmath{at}outlook.com
 
 北京大学，全斋31
 
-### About me:
+### About me
 I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking.  I am interested in Homogeneous dynamics and its applications.  
 
 I obtained my Phd  degree from mathematics department at The Ohio State University in 2020.  My advisor is [Nimish Shah](https://people.math.osu.edu/shah.595/).
