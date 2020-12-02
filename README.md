@@ -15,6 +15,8 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 ### Preprints and Publications
 
+- [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
+
 - [[arXiv]](https://arxiv.org/abs/1909.02666) Translates of homogeneous measures associated with observable subgroups on some homogeneous spaces.
 
 - [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z),  Mathematische Annalen, 2019
