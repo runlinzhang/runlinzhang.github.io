@@ -15,6 +15,8 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 ### Preprints and Publications
 
+- [[arXiv]](https://arxiv.org/abs/2103.10707) Counting integral points on indefinite ternary quadratic equations over number fields. (joint with Fei Xu)
+
 - [[arXiv]](https://arxiv.org/abs/2012.07468) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary.
 
 - [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
