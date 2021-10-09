@@ -9,7 +9,7 @@ zhangrunlinmath{at}outlook.com
 北京大学，全斋31
 
 ### About me
-I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking working with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).  I am interested in Homogeneous dynamics and its applications.  
+I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking working with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).  I am interested in homogeneous dynamics and its applications.  
 
 I obtained my Phd degree from mathematics department at The Ohio State University in 2020.  My advisor is [Nimish Shah](https://people.math.osu.edu/shah.595/).
 
