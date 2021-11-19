@@ -8,6 +8,7 @@ zhangrunlinmath{at}outlook.com
 
 北京大学，全斋31
 
+
 ### About me
 I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking working with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).  I am interested in homogeneous dynamics and its applications.  
 
@@ -17,7 +18,7 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 ### Preprints and Publications
 
-- [[arXiv]](https://arxiv.org/abs/2111.09584)[[pdf]](runlinzhang.github.io/main.pdf?raw=true) Count lifts of non-maximal closed horocycles on SL(N,Z)∖SL(N,R)/SO(N,R).
+- [[arXiv]](https://arxiv.org/abs/2111.09584)[[pdf]](https://runlinzhang.github.io/main.pdf?raw=true). [[pdf?]](https://runlinzhang.github.io/main.pdf) Count lifts of non-maximal closed horocycles on SL(N,Z)∖SL(N,R)/SO(N,R).
 
 - [[arXiv]](https://arxiv.org/abs/2111.02002) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
 
