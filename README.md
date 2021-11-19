@@ -18,7 +18,7 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 ### Preprints and Publications
 
-- [[arXiv]](https://arxiv.org/abs/2111.09584)[[pdf]](https://runlinzhang.github.io/main.pdf?raw=true). [[pdf?]](https://runlinzhang.github.io/main.pdf) Count lifts of non-maximal closed horocycles on SL(N,Z)∖SL(N,R)/SO(N,R).
+- [[arXiv]](https://arxiv.org/abs/2111.09584), [[pdf]](https://runlinzhang.github.io/main.pdf?raw=true).  Count lifts of non-maximal closed horocycles on SL(N,Z)∖SL(N,R)/SO(N,R).
 
 - [[arXiv]](https://arxiv.org/abs/2111.02002) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
 
