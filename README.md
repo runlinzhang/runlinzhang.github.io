@@ -17,6 +17,8 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 ### Preprints and Publications
 
+- [[arXiv]](https://arxiv.org/abs/2111.09584) Count lifts of non-maximal closed horocycles on SLN(ℤ)∖SLN(ℝ)/SON(ℝ).
+
 - [[arXiv]](https://arxiv.org/abs/2111.02002) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
 
 - [[arXiv]](https://arxiv.org/abs/2103.10707) (joint with Fei Xu) Counting integral points on indefinite ternary quadratic equations over number fields. 
