@@ -24,11 +24,11 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 - [[arXiv]](https://arxiv.org/abs/2103.10707) (joint with Fei Xu) Counting integral points on indefinite ternary quadratic equations over number fields. 
 
-- [[arXiv]](https://arxiv.org/abs/2012.07468) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary. (accepted by Discrete and Continuous Dynamical Systems)
+- [[arXiv]](https://arxiv.org/abs/2012.07468)[[Journal]] (http://dx.doi.org/10.3934/dcds.2021183) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary. (accepted by Discrete and Continuous Dynamical Systems)
 
 - [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
 
-- [[arXiv]](https://arxiv.org/abs/1909.02666) Translates of homogeneous measures associated with observable subgroups on some homogeneous spaces. (accepted by Compositio Mathematica)
+- [[arXiv]](https://arxiv.org/abs/1909.02666) [[Journal]](https://doi.org/10.1112/S0010437X21007624) Translates of homogeneous measures associated with observable subgroups on some homogeneous spaces, Compos. Math. 157 (2021), no. 12, 2657–2698. 
 
-- [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z),  Mathematische Annalen, 2019
+- [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z), Math. Ann. 375 (2019), 1231–1281.
  
