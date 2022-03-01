@@ -16,6 +16,9 @@ I obtained my Phd degree from mathematics department at The Ohio State Universit
 
 Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014.
 
+### Teaching
+I teach homogeneous dynamics/齐性动力系统 this semester.
+
 ### Preprints and Publications
 
 - [[arXiv]](https://arxiv.org/abs/2111.09584) [[pdf]](https://runlinzhang.github.io/Horocycles.pdf?raw=true)  Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
