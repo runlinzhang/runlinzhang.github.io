@@ -1,7 +1,6 @@
 ## Runlin Zhang 张润林
 
-### Teaching
-I teach homogeneous dynamics/齐性动力系统 this semester.
+### 2022春齐性动力系统
 
 [课程大纲](https://runlinzhang.github.io/2022齐性动力系统课程大纲.pdf?raw=true)
 
