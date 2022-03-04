@@ -8,3 +8,5 @@
 - [Lecture 1](https://runlinzhang.github.io/Lec1.pdf?raw=true)
 
 - [Lecture 2](https://runlinzhang.github.io/Lec2.pdf?raw=true)
+
+- [Lecture 3](https://runlinzhang.github.io/Lec3.pdf?raw=true)
