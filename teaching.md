@@ -10,3 +10,5 @@
 - [Lecture 2](https://runlinzhang.github.io/Lec2.pdf?raw=true)
 
 - [Lecture 3](https://runlinzhang.github.io/Lec3.pdf?raw=true)
+
+- [Lecture 4](https://runlinzhang.github.io/Lec4.pdf?raw=true)
