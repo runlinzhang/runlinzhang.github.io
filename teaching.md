@@ -11,6 +11,11 @@
 
 - [Lecture 3](https://runlinzhang.github.io/Lec3.pdf?raw=true)
 
-(the proof on the bottom of page 6 has an error, rmk 3.3 should also be used)
+Correction:
+1. the proof on the bottom of page 6 has an error, rmk 3.3 should also be used;
+2. page 4, in the middle there is a long equation above "now choose v_2 \in ...". In the second row of that equation, replace "\pi_1(v_1)" by "v_1" and "v_2" by "\pi_1(v_2)"
 
 - [Lecture 4](https://runlinzhang.github.io/Lec4.pdf?raw=true)
+
+Correction:
+1. page 3, sec 2.2 case 3: I should add "y_n \in Y_1".
