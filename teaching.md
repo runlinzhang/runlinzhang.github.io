@@ -28,3 +28,5 @@ Correction:
 2. page 8, the equation after "Define h_{n,\delta}' by": there should be an "=" between "exp()" and the matrix.
 
 - [Exercise sheet 1](https://runlinzhang.github.io/EXER1.pdf?raw=true)
+
+- [Lecture 5](https://runlinzhang.github.io/Lec5.pdf?raw=true)
