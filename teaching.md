@@ -11,8 +11,9 @@
 
 Correction:
 1. page 4, equa.5. the left lower coner should be "c_n" instead of blank. 
-2. page 5, the line above Claim 2.1. "G/B homeo to H^2" should be replaced by "G/B homeo to \partial H^2";
-3. page 6, there are typos in the "Proof of the Claim", I shall correct them later.
+2. page 4, Lemma 2.7, "Homeo(X)" should be "Homeo(Z)".
+3. page 5, the line above Claim 2.1. "G/B homeo to H^2" should be replaced by "G/B homeo to \partial H^2";
+4. page 6, there are typos in the "Proof of the Claim", I shall correct them later.
 
 - [Lecture 3](https://runlinzhang.github.io/Lec3.pdf?raw=true)
 
