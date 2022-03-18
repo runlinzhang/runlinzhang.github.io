@@ -26,4 +26,4 @@ Correction:
 1. page 3, sec 2.2 case 3: I should add "y_n \in Y_1".
 2. page 8, the equation after "Define h_{n,\delta}' by": there should be an "=" between "exp()" and the matrix.
 
-- [Exercise 1](https://runlinzhang.github.io/EXER1.pdf?raw=true)
+- [Exercise Sheet 1](https://runlinzhang.github.io/EXER1.pdf?raw=true)
