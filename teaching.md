@@ -30,3 +30,6 @@ Correction:
 - [Exercise sheet 1](https://runlinzhang.github.io/EXER1.pdf?raw=true)
 
 - [Lecture 5](https://runlinzhang.github.io/Lec5.pdf?raw=true)
+
+Correction:
+1. page 3, line number 1: "Lem.2.2" should be "Lem.2.3"
