@@ -26,7 +26,7 @@ Correction:
 Correction:
 1. page 3, sec 2.2 case 3: I should add "y_n \in Y_1".
 2. page 8, the equation after "Define h_{n,\delta}' by": there should be an "=" between "exp()" and the matrix.
-3. page 2, rather than Lem.2.1, we might have started with a H-minimal Y_0 and argue that \calO defined there is empty. (btw, I forgot to define what Y_0 is...it is the closure of the orbit of H as in Thm 1.1.)
+3. page 2, I forgot to define what Y_0 is...it is the closure of the orbit of H as in Thm 1.1.
 
 - [Exercise sheet 1](https://runlinzhang.github.io/EXER_1.pdf?raw=true)
 
