@@ -30,6 +30,9 @@ Correction:
 
 - [Exercise sheet 1](https://runlinzhang.github.io/EXER_1.pdf?raw=true)
 
+Correction:
+1. Exer 0.8, "for every \epsilon >0" should be "for every \epsilon \in (0,1)"
+
 - [Lecture 5](https://runlinzhang.github.io/Lec5.pdf?raw=true)
 
 Correction:
