@@ -38,7 +38,7 @@ Correction:
 Correction:
 1. page 3, line number 1: "Lem.2.2" should be "Lem.2.3"
 2. page 3, the argument on the top of this page is a bit wrong. We should only pick a minimal Y_1 under the assumption of case 1. Without this assumption it is not clear why this set admits a minimal element. 
-3. page 4, line 1-4, there is a serious gap in case 2. We will resolve this issue later. Actually the gap is so serious that it ruins the proof of main theorem of this note. The nondivergence part is unaffected.
+3. page 4, line 1-4, there is a serious gap in case 2. We will resolve this issue in a later lecture. Actually the gap is so serious that it ruins the proof of main theorem of this note. The nondivergence part is unaffected.
 
 - [Lecture 6](https://runlinzhang.github.io/Lec6.pdf?raw=true)
 
