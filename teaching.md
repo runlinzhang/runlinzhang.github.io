@@ -43,3 +43,7 @@ Correction:
 - [Lecture 6](https://runlinzhang.github.io/Lec6.pdf?raw=true)
 
 - [Lecture 7](https://runlinzhang.github.io/Lec7.pdf?raw=true)
+
+- [Exercise sheet 2](https://runlinzhang.github.io/EXER_2.pdf?raw=true)
+
+- [Lecture 8](https://runlinzhang.github.io/Lec8.pdf?raw=true)
