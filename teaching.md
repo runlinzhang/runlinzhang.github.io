@@ -47,3 +47,5 @@ Correction:
 - [Exercise sheet 2](https://runlinzhang.github.io/EXER_2.pdf?raw=true)
 
 - [Lecture 8](https://runlinzhang.github.io/Lec8.pdf?raw=true)
+
+- [Lecture 9](https://runlinzhang.github.io/Lec9.pdf?raw=true)
