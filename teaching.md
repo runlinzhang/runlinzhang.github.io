@@ -52,3 +52,5 @@ Correction:
 - [Lecture 8](https://runlinzhang.github.io/Lec8.pdf?raw=true)
 
 - [Lecture 9](https://runlinzhang.github.io/Lec9.pdf?raw=true)
+
+- [Lecture 9.5](https://runlinzhang.github.io/Lec9.5.pdf?raw=true)
