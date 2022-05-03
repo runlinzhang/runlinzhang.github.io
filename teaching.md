@@ -56,3 +56,5 @@ Correction:
 - [Lecture 9.5](https://runlinzhang.github.io/Lec9.5.pdf?raw=true)
 
 - [Lecture 10](https://runlinzhang.github.io/Lec10.pdf?raw=true)
+
+- [Exercise sheet 3](https://runlinzhang.github.io/EXER_3.pdf?raw=true)
