@@ -59,7 +59,7 @@ Correction:
 
 Correction:
 1. page 5, below the picture, equation (4), the left upper corner of the matrix should be "1+a_n+tc_n";
-2. page 6, below equation (5), the second line, "y''_{n,\delta}=u_{s'_{n,\delta}}..." should be  "y''_{n,\delta}=u_{t'_{n,\delta}}...";
+2. page 6, below equation (5), the second line, "y''_{n,\delta}= u_{s'_{n,\delta}}..." should be  "y''_{n,\delta}=u_{t'_{n,\delta}}...";
 
 - [Lecture 9.5](https://runlinzhang.github.io/Lec9.5.pdf?raw=true)
 
