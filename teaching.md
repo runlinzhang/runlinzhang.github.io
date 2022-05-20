@@ -51,10 +51,25 @@ Correction:
 
 - [Lecture 8](https://runlinzhang.github.io/Lec8.pdf?raw=true)
 
+Correction:
+1. page 5, the equation above Example 4.3, M^t should be M^s;
+2. page 2, remark 1.3, first line, "take some probability measure" should be "take some Borel probability measure";
+
 - [Lecture 9](https://runlinzhang.github.io/Lec9.pdf?raw=true)
+
+Correction:
+1. page 5, below the picture, equation (4), the left upper corner of the matrix should be "1+a_n+tc_n";
+2. page 6, below equation (5), the second line, "y''_{n,\delta}=u_{s'_{n,\delta}}..." should be  "y''_{n,\delta}=u_{t'_{n,\delta}}...";
 
 - [Lecture 9.5](https://runlinzhang.github.io/Lec9.5.pdf?raw=true)
 
 - [Lecture 10](https://runlinzhang.github.io/Lec10.pdf?raw=true)
 
+Correction:
+1. page 1, Thm 1.1, in the equation, \delta_{x_0} should be \delta_{\Lambda_0}; also, in front of the integral symbol, there is a \frac{1}{S} missing;
+2. page 6, many places... \widetilde{\Omega}_{\varepsilon} and \widetilde{\Omega}_{i} are the same thing;
+
 - [Exercise sheet 3](https://runlinzhang.github.io/EXER_3.pdf?raw=true)
+
+Correction:
+1. page 1, section 1, 2nd line, the v_r should be lower triangular with (2,1)-entry equal to r;
