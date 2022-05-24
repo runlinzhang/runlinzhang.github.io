@@ -73,6 +73,7 @@ Correction:
 
 Correction:
 1. page 1, section 1, 2nd line, the v_r should be lower triangular with (2,1)-entry equal to r;
+2. page 3, ignore the comments "[...]" below Exer.3.6;
 
 - [Lecture 11](https://runlinzhang.github.io/Lec11.pdf?raw=true)
 
