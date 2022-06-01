@@ -78,3 +78,8 @@ Correction:
 - [Lecture 11](https://runlinzhang.github.io/Lec11.pdf?raw=true)
 
 - [Lecture 12](https://runlinzhang.github.io/Lec12.pdf?raw=true)
+
+- [Lecture 13](https://runlinzhang.github.io/Lec13.pdf?raw=true)
+
+- [Lecture 14](https://runlinzhang.github.io/Lec14.pdf?raw=true)
+
