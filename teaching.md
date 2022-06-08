@@ -7,5 +7,8 @@
 
 - [Lecture Notes](https://runlinzhang.github.io/DraftHomogeneous.pdf?raw=true)
 
-Notes/Exercises have been collected into a single file above. It is still rather crude and needs further revision. More importantly, it is incomplete: entropy had not appeared yet.
+Notes/Exercises have been collected into a single file above. 
+It is still in a rather primitive form and needs further revision. 
+More importantly, it is incomplete: entropy has not appeared yet.
 
+Please send me any comments/corrections/questions you have!
