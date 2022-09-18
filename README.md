@@ -17,7 +17,7 @@ I obtained my Phd degree from mathematics department at The Ohio State Universit
 Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014.
 
 ### Past Teaching
-I taught homogeneous dynamics/齐性动力系统 in 2022Spring. [课程主页](https://runlinzhang.github.io/teaching)
+2022Spring, Homogeneous dynamics/齐性动力系统, [课程主页](https://runlinzhang.github.io/teaching)
 
 ### Preprints and Publications
 
