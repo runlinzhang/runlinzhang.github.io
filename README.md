@@ -29,7 +29,7 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 - [[arXiv]](https://arxiv.org/abs/2103.10707)  [[Journal]](https://academic.oup.com/qjmath/advance-article-abstract/doi/10.1093/qmath/haac039/6874956?utm_source=advanceaccess&utm_campaign=qjmath&utm_medium=email)  (joint with Fei Xu) Counting integral points on indefinite ternary quadratic equations over number fields.  The Quarterly Journal of Mathematics, 2022.
 
-- [[arXiv]](https://arxiv.org/abs/2012.07468) [[Journal]](http://dx.doi.org/10.3934/dcds.2021183) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary. (accepted by Discrete and Continuous Dynamical Systems)
+- [[arXiv]](https://arxiv.org/abs/2012.07468) [[Journal]](http://dx.doi.org/10.3934/dcds.2021183) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary. Discrete and Continuous Dynamical Systems, 2022, 42(4): 2053-2071.
 
 - [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
 
