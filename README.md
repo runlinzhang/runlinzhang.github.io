@@ -2,19 +2,10 @@
 
 ### Contact
 
-zhangrunlin{at}bicmr.pku.edu.cn
-
 zhangrunlinmath{at}outlook.com
 
-北京大学，全斋31
+重庆大学虎溪校区，理科大楼，LD316
 
-
-### About me
-I am a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking working with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/).  I am interested in homogeneous dynamics and its applications.  
-
-I obtained my Phd degree from mathematics department at The Ohio State University in 2020.  My advisor is [Nimish Shah](https://people.math.osu.edu/shah.595/).
-
-Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014.
 
 ### Past Teaching
 2022Spring, Homogeneous dynamics/齐性动力系统, [课程主页](https://runlinzhang.github.io/teaching).
@@ -37,3 +28,13 @@ Before that I received my Bachelor's degree in mathematics from Chongqing Univer
 
 - [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z), Math. Ann. 375 (2019), no. 3-4, 1231–1281.
  
+ 
+ ### About me
+
+I work in [math department](http://sci.cqu.edu.cn) of Chongqing University.  I am interested in homogeneous dynamics and its applications.
+
+I was a Postdoc at [BICMR](http://bicmr.pku.edu.cn) in Peking working with [Jinpeng An](https://www.math.pku.edu.cn/teachers/anjp/). 
+
+I obtained my Phd degree from mathematics department at The Ohio State University in 2020.  My advisor is [Nimish Shah](https://people.math.osu.edu/shah.595/).
+
+Before that I received my Bachelor's degree in mathematics from Chongqing University in 2014.
