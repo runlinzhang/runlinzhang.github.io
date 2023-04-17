@@ -28,8 +28,8 @@ zhangrunlinmath{at}outlook.com
 
 - [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z), Math. Ann. 375 (2019), no. 3-4, 1231–1281.
  
- 
- ### About me
+
+### About me
 
 I work in [math department](http://sci.cqu.edu.cn) of Chongqing University.  I am interested in homogeneous dynamics and its applications.
 
