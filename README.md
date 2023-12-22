@@ -1,19 +1,19 @@
 ## Runlin Zhang 张润林
 
-### Contact
+### Contact/联系方式
 
 zhangrunlinmath{at}outlook.com
 
 重庆大学虎溪校区，理科大楼，LD316
 
-### Teaching
+### Teaching/教学
 2024Spring, 数论, [课程主页](https://runlinzhang.github.io/teaching2024sp).
 
 
-### Past Teaching
+### Past Teaching/过往的教学
 2022Spring, Homogeneous dynamics/齐性动力系统, [课程主页](https://runlinzhang.github.io/teaching).
 
-### Preprints and Publications
+### Preprints and Publications/预印本或者已经发表的文章
 
 - [[arXiv]](https://arxiv.org/abs/2209.06463) (joint with Han Zhang) Nondivergence of Reductive group action on Homogeneous Spaces.
 
@@ -32,7 +32,7 @@ zhangrunlinmath{at}outlook.com
 - [[arXiv]](https://arxiv.org/abs/1804.00226) [[Journal]](https://link.springer.com/article/10.1007%2Fs00208-019-01896-3) Limiting distribution of translates of the orbit of a maximal Q-torus from identity on SL(n,R)/SL(n,Z), Math. Ann. 375 (2019), no. 3-4, 1231–1281.
  
 
-### About me
+### About me/自我介绍
 
 I work in [math department](http://sci.cqu.edu.cn) of Chongqing University.  I am interested in homogeneous dynamics and its applications.
 
