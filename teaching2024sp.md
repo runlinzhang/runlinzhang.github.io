@@ -7,3 +7,5 @@
    - page 6, line 6, \sum Leb(E_n) should be equal to \infty rather than ``< \infty''.
  - [Lecture 2](https://runlinzhang.github.io/2024SP_Lecture_2_0323.pdf?raw=true) (update: 2024/03/23)
  - [Exercise 1](https://runlinzhang.github.io/2024SP_Exercise_1_0323.pdf?raw=true) (update: 2024/03/23)
+ - [Lecture 2.5](https://runlinzhang.github.io/2024SP_Lecture_2.5_0412.pdf?raw=true) (update: 2024/04/12)
+ - [Lecture 3](https://runlinzhang.github.io/2024SP_Lecture_3_0412.pdf?raw=true) (update: 2024/04/12)
