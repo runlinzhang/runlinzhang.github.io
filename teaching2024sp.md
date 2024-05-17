@@ -13,4 +13,5 @@
      - we did not go through the details of this note in the class
  - [Exercise 2](https://runlinzhang.github.io/2024SP_Exercise_2_0428.pdf?raw=true) (update: 2024/04/28)
  - [Lecture 5](https://runlinzhang.github.io/2024SP_Lecture_5_0510.pdf?raw=true) (update: 2024/05/10)
+ - [Lecture 6](https://runlinzhang.github.io/2024SP_Lecture_6_0517.pdf?raw=true) (update: 2024/05/17)
    
