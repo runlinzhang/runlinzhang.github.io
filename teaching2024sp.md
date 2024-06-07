@@ -16,5 +16,5 @@
  - [Lecture 6](https://runlinzhang.github.io/2024SP_Lecture_6_0517.pdf?raw=true) (update: 2024/05/17)
    - page 5, line 9, ''we can find X_1 \in A contained in X′ (defined by intersection of all X′_{B_i}'s'', both X_1 and X'_{B_i} should just be X'.
  - [Exercise 3](https://runlinzhang.github.io/2024SP_Exercise_3_0607.pdf?raw=true) (update: 2024/06/07)
- - [Lecture 6](https://runlinzhang.github.io/2024SP_Lecture_7_0608.pdf?raw=true) (update: 2024/06/08)
+ - [Lecture 7](https://runlinzhang.github.io/2024SP_Lecture_7_0608.pdf?raw=true) (update: 2024/06/08)
 
