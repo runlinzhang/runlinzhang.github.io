@@ -13,6 +13,8 @@ zhangrunlinmath{at}outlook.com
 
 ### Preprints and Publications/预印本或者已经发表的文章
 
+- [[arXiv]](https://arxiv.org/abs/2408.02325) Asymptotics of integral points, equivariant compactifications and equidistributions for homogeneous spaces.
+
 - [[arXiv]](https://arxiv.org/abs/2209.06463) (joint with Han Zhang) Nondivergence of Reductive group action on Homogeneous Spaces.
 
 - [[arXiv]](https://arxiv.org/abs/2111.09584) Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
@@ -23,7 +25,7 @@ zhangrunlinmath{at}outlook.com
 
 - [[arXiv]](https://arxiv.org/abs/2012.07468) [[Journal]](http://dx.doi.org/10.3934/dcds.2021183) Equidistribution of translates of a homogeneous measure on the Borel--Serre boundary. Discrete and Continuous Dynamical Systems, 2022, 42(4): 2053-2071.
 
-- [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
+- [This has been superceded by "Asymptotics of integral points, equivariant compactifications..." above] [[arXiv]](https://arxiv.org/abs/2012.00178) Counting integral points on some homogeneous varieties with large reductive stabilizers.
 
 - [[arXiv]](https://arxiv.org/abs/1909.02666) [[Journal]](https://doi.org/10.1112/S0010437X21007624) Translates of homogeneous measures associated with observable subgroups on some homogeneous spaces, Compos. Math. 157 (2021), no. 12, 2657–2698. 
 
