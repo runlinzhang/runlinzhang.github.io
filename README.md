@@ -17,9 +17,9 @@ zhangrunlinmath{at}outlook.com
 
 - [[arXiv]](https://arxiv.org/abs/2209.06463) (joint with Han Zhang) Nondivergence of Reductive group action on Homogeneous Spaces.
 
-- [[arXiv]](https://arxiv.org/abs/2111.09584) Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
+- [[arXiv]](https://arxiv.org/abs/2111.09584)[[Journal]](https://doi.org/10.1007/s00605-022-01803-0) Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
 
-- [[arXiv]](https://arxiv.org/abs/2111.02002) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
+- [[arXiv]](https://arxiv.org/abs/2111.02002) [[Journal]](https://doi.org/10.1007/s11856-024-2645-6) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
 
 - [[arXiv]](https://arxiv.org/abs/2103.10707)  [[Journal]](https://academic.oup.com/qjmath/advance-article-abstract/doi/10.1093/qmath/haac039/6874956?utm_source=advanceaccess&utm_campaign=qjmath&utm_medium=email)  (joint with Fei Xu) Counting integral points on indefinite ternary quadratic equations over number fields.  The Quarterly Journal of Mathematics, 2022.
 
