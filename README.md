@@ -17,7 +17,7 @@ zhangrunlinmath{at}outlook.com
 
 - [[arXiv]](https://arxiv.org/abs/2209.06463) (joint with Han Zhang) Nondivergence of Reductive group action on Homogeneous Spaces.
 
-- [[arXiv]](https://arxiv.org/abs/2111.09584)[[Journal]](https://doi.org/10.1007/s00605-022-01803-0) Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
+- [[arXiv]](https://arxiv.org/abs/2111.09584) [[Journal]](https://doi.org/10.1007/s00605-022-01803-0) Count lifts of non-maximal closed horocycles on SL(N,Z)\SL(N,R)/SO(N,R).
 
 - [[arXiv]](https://arxiv.org/abs/2111.02002) [[Journal]](https://doi.org/10.1007/s11856-024-2645-6) (joint with Han Zhang) Nondivergence on homogeneous spaces and rigid totally geodesics.
 
