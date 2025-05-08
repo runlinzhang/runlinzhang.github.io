@@ -7,6 +7,8 @@ zhangrunlinmath{at}outlook.com
 重庆大学虎溪校区，理科楼，LD316
 
 ### Past Teaching/过往的教学
+2025Spring, 数论, [Notes](https://runlinzhang.github.io/2025SP_number_theory_0508.pdf?raw=true).
+
 2024Spring, 数论, [Notes](https://runlinzhang.github.io/2024SP_EKL_Notes_0708.pdf?raw=true).
 
 2022Spring, Homogeneous dynamics/齐性动力系统, [Notes](https://runlinzhang.github.io/DraftHomogeneous.pdf?raw=true).
