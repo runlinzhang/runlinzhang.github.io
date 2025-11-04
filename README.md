@@ -15,6 +15,8 @@ zhangrunlinmath{at}outlook.com
 
 ### Preprints and Publications/预印本或者已经发表的文章
 
+- [[arXiv]](https://arxiv.org/abs/2509.23320) (joint with Yang Cao, Zhizhong Huang) Effective equidistribution, arithmetic purity of strong approximation, and geometric sieve for affine quadrics.
+
 - [[arXiv]](https://arxiv.org/abs/2408.02325) Asymptotics of integral points, equivariant compactifications and equidistributions for homogeneous spaces.
 
 - [[arXiv]](https://arxiv.org/abs/2209.06463) (joint with Han Zhang) Nondivergence of Reductive group action on Homogeneous Spaces.
